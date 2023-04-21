@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 20 abr. 2023, 22:40:03
+    Document   : quienesomos
+    Created on : 20 abr. 2023, 22:54:43
     Author     : HP
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hola a todos</h1>
-        <%@include file = "menu.jsp"   %>
+        <h1>Hello World!</h1>
     </body>
 </html>
