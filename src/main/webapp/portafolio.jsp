@@ -12,6 +12,13 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+         <%@include file = "menu.jsp"   %>
+       <p>
+           La historia de Bolivia es rica y variada. 
+           Los pueblos indígenas han habitado estas tierras desde hace miles de años, 
+           y han dejado un legado cultural que ha sido transmitido de generación en generación.
+           Sin embargo, fue durante la colonización española cuando la historia de Bolivia comenzó
+           a tomar forma.
+       </p>
     </body>
 </html>

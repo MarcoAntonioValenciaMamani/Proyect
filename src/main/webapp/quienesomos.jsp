@@ -12,6 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+         <%@include file = "menu.jsp"   %>
+       <p>
+          Bolivia es un país lleno de historia, cultura y tradiciones que lo hacen único y fascinante.
+          Desde las insurrecciones indígenas de finales del siglo XVIII hasta el movimiento independentista que inició en 1809
+       </p>
     </body>
 </html>

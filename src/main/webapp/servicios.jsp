@@ -12,6 +12,12 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+         <%@include file = "menu.jsp"   %>
+              <p>
+           Hoy en día, Bolivia es un país que sigue enfrentando grandes desafíos
+           en su camino hacia la inclusión, la igualdad y la armonía con el planeta.
+           A pesar de los obstáculos, la cultura boliviana sigue floreciendo, y 
+           es una muestra de la riqueza y diversidad del país.
+       </p>
     </body>
 </html>
